@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "891718046676",
-    "firebase_url": "https://tailormen-81712.firebaseio.com",
-    "project_id": "tailormen-81712",
-    "storage_bucket": "tailormen-81712.appspot.com"
+    "project_number": "481150958872",
+    "firebase_url": "https://tailormen-e4cd6.firebaseio.com",
+    "project_id": "tailormen-e4cd6",
+    "storage_bucket": "tailormen-e4cd6.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:891718046676:android:02e10fd79849f896",
+        "mobilesdk_app_id": "1:481150958872:android:02e10fd79849f896",
         "android_client_info": {
           "package_name": "com.oudevs.tailormen"
         }
       },
       "oauth_client": [
         {
-          "client_id": "891718046676-sbiccp66r5pj6ulqr2o4bbm0da08776g.apps.googleusercontent.com",
+          "client_id": "481150958872-q1jf96g3jdc150oc1p8g4hif1hj7jfnp.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBlXADsO1K5HzCkeEG1fiwDZIys0tkTBQI"
+          "current_key": "AIzaSyCI66CSQR7tYsaS4UTu1DCXxSueZSM0g9g"
         }
       ],
       "services": {
