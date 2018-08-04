@@ -19,13 +19,16 @@ public class Utility extends AppCompatActivity {
         return TextUtils.isEmpty(str);
     }
 
-    boolean checkEnteredData(EditText inputEmail, EditText inputPassword) {
-        if (isEmpty(inputEmail)) {
+    boolean validateEmail(EditText email){
+        if (isEmpty(email)) {
             Toast.makeText(this.context, "EmailID is required", Toast.LENGTH_SHORT).show();
             return false;
         }
+        return true;
+    }
 
-        if (isEmpty(inputPassword)) {
+    boolean validatePassword(EditText password){
+        if (isEmpty(password)) {
             Toast.makeText(this.context, "Password is required", Toast.LENGTH_SHORT).show();
             return false;
         }
